@@ -3,13 +3,13 @@
 ---
 ## Which is faster?
 #### Query Gametime:
-```
+```mcfunction
 execute store result score # value run time query gametime
 ```
 
 ## or
 #### Scoreboard get:
-```
+```mcfunction
 scoreboard players add #i value 1
 execute store result score # value run scoreboard players get #i value
 ```
