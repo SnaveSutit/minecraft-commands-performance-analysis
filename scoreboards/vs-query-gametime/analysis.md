@@ -23,3 +23,6 @@ Query gametime averages out at 3889 iterations per 50ms while Scoreboard get ave
 ![Missing Image!](https://github.com/SnaveSutit/minecraft-commands-performance-analysis/blob/main/scoreboards/vs-query-gametime/images/query-game-time-a.png?raw=true "Query Gametime performance")
 
 ![Missing Image!](https://github.com/SnaveSutit/minecraft-commands-performance-analysis/blob/main/scoreboards/vs-query-gametime/images/query-game-time-a.png?raw=true "Scoreboard get performance")
+
+# Extra Context
+This question was brought up by Onnowhere while suggesting different, possibly more efficient, solutions to changing an area effect clouds Air tag every tick for a tool called [Animated Java](https://discord.gg/jFgY4PXZfp)
