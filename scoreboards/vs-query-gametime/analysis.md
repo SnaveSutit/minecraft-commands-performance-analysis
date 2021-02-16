@@ -16,7 +16,7 @@ execute store result score # value run scoreboard players get #i value
 
 # Answer
 ---
-Query gametime is ~27.85% slower than scoreboard players get.
+### Query gametime is ~27.85% slower than scoreboard players get.
 
 Query gametime averages out at 3889 iterations per 50ms while Scoreboard get averages around 5390 iterations per 50ms even with the extra scoreboard add command.
 
