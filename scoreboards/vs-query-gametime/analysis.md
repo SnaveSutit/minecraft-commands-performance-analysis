@@ -21,11 +21,10 @@ Query gametime is ~27.85% slower than scoreboard players get.
 Query gametime averages out at 3889 iterations per 50ms while Scoreboard get averages around 5390 iterations per 50ms even with the extra scoreboard add command.
 
 #### Query gametime readout:
-
-![Missing Image!](image-a "Query Gametime performance")
+![Missing Image!][image-a]
 
 #### Scoreboard players get readout:
-![Missing Image!](image-b "Scoreboard get performance")
+![Missing Image!][image-b]
 
 # Extra Context
 This question was brought up by Onnowhere while suggesting different, possibly more efficient, solutions to changing an area effect clouds Air tag every tick for a tool called [Animated Java](https://discord.gg/jFgY4PXZfp)
